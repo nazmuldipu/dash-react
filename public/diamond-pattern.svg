@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="Layer_1" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2604 1600"
+	 enable-background="new 0 0 2604 1600" xml:space="preserve">
+<pattern  y="1600" width="100" height="100" patternUnits="userSpaceOnUse" id="New_Pattern" viewBox="0 -100 100 100" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,-100 100,-100 100,0 0,0 		"/>
+		<g id="Layer_x0020_1_4_">
+			<path d="M0-50L0-50c27.5862,0,50,22.4138,50,50l0,0c0-27.5862,22.6054-50,50-50l0,0c-27.3946,0-50-22.4138-50-50l0,0
+				C50-72.4138,27.5862-50,0-50z"/>
+		</g>
+	</g>
+</pattern>
+<rect fill="url(#New_Pattern)" width="2604" height="1600"/>
+</svg>
