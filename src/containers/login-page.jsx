@@ -21,7 +21,7 @@ function LoginPage() {
 
     return (
         <div className="bg-gray-200 h-screen flex">
-            <div className="w-1/3 px-5 py-10 h-full flex items-center justify-between flex-col">
+            <div className="w-full md:w-1/3 px-5 py-10 h-full flex items-center justify-between flex-col">
                 <div><img src="/logo.png" alt="Logo" className="h-16" /></div>
                 <div className="w-80">
                     <h2 className="text-center text-2xl">Sign in to your account</h2>
@@ -38,8 +38,8 @@ function LoginPage() {
             </div>
 
             {/* Right panel */}
-            <div> 
-            <img src="/diamond-pattern.svg" alt="Logo" className="w-full h-full" />
+            <div className="w-full hidden md:block"> 
+                <img src="/bg-blue.jpg" alt="Logo" className="w-full h-full object-cover" />
             </div>
         </div>
     );
